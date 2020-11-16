@@ -5,6 +5,3 @@
 ![Hiago Github Stats](https://github-readme-stats.vercel.app/api?username=hiago-buzz&show_icons=true&theme=dracula)
 
 ![Hiago Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hiago-buzz)
-
-- This is me loving CSS
-<img src="https://i.gifer.com/origin/61/6170662f09220932f1c45887777f062e_w200.gif" />
